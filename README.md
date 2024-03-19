@@ -70,7 +70,5 @@ Contributions to this repository are welcome. If you have any suggestions for im
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+[View Projec](https://github.com/Victor7615/Breast-Cancer-Classification/edit/main/README.md)
 
----
-
-You can use this template to create your README.md file for your GitHub repository. Make sure to replace placeholders with actual information and update sections as needed.
