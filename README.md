@@ -1,7 +1,5 @@
 # Breast Cancer Prediction Model
 
-![Breast Cancer](BC.png)
-
 This repository contains a machine learning model developed to predict whether a cell is benign or malignant based on breast cancer dataset. The model utilizes various classification algorithms such as Logistic Regression, Decision Tree, K Nearest Neighbor (KNN), Naive Bayes, and Support Vector Machine (SVM) to classify cells into benign or malignant categories.
 
 ## Table of Contents
