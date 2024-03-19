@@ -65,9 +65,7 @@ The models are evaluated based on various metrics such as accuracy, cross-valida
 
 Contributions to this repository are welcome. If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-[View Project](https://github.com/Victor7615/Breast-Cancer-Classification/edit/main/README.md)
+
 
